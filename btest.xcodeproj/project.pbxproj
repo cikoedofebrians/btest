@@ -7,18 +7,69 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF0445A02B1B7BF700590065 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF04459F2B1B7BF700590065 /* SplashView.swift */; };
+		BF1985A32B28C739003E7AEB /* HistoryCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF1985A22B28C739003E7AEB /* HistoryCard.swift */; };
+		BF2E21192B1C8C28007B5117 /* beep-02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF2E21182B1C8C28007B5117 /* beep-02.mp3 */; };
+		BF2E211B2B1CE14A007B5117 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF2E211A2B1CE14A007B5117 /* ResultView.swift */; };
+		BF638C672B2B192C007243F6 /* BeepTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF638C662B2B192C007243F6 /* BeepTableView.swift */; };
+		BF71E0252B1B03B900A3B68E /* SoundManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF71E0242B1B03B900A3B68E /* SoundManager.swift */; };
+		BF71E02A2B1B046B00A3B68E /* beep-01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF71E0292B1B046B00A3B68E /* beep-01.mp3 */; };
+		BF71E02C2B1B06AA00A3B68E /* BeepStage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF71E02B2B1B06A900A3B68E /* BeepStage.swift */; };
+		BF71E02E2B1B1C1900A3B68E /* TutorialsItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF71E02D2B1B1C1900A3B68E /* TutorialsItem.swift */; };
+		BF71E0302B1B206C00A3B68E /* StageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF71E02F2B1B206C00A3B68E /* StageView.swift */; };
+		BF71E0322B1B20FD00A3B68E /* RedBackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF71E0312B1B20FD00A3B68E /* RedBackButton.swift */; };
+		BFC59BA72B1DC20C008C9E54 /* BeepResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC59BA62B1DC20C008C9E54 /* BeepResult.swift */; };
+		BFC59BA92B1DEB89008C9E54 /* UserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC59BA82B1DEB89008C9E54 /* UserDefaults.swift */; };
+		BFC59BAC2B1DEEF2008C9E54 /* SelectAgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC59BAB2B1DEEF2008C9E54 /* SelectAgeView.swift */; };
+		BFC59BAE2B1E071A008C9E54 /* BeepClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC59BAD2B1E071A008C9E54 /* BeepClass.swift */; };
+		BFC59BB02B1EF5CD008C9E54 /* HistoryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC59BAF2B1EF5CD008C9E54 /* HistoryViewModel.swift */; };
+		BFC59BB22B1F18A2008C9E54 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC59BB12B1F18A2008C9E54 /* Helper.swift */; };
+		BFCE29B72B27AC41008194DC /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFCE29B62B27AC41008194DC /* HistoryView.swift */; };
+		BFE4D6BB2B2B64A400AAB832 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE4D6BA2B2B64A400AAB832 /* Date.swift */; };
 		BFE970DD2AF2594000D596D3 /* btestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970DC2AF2594000D596D3 /* btestApp.swift */; };
 		BFE970DF2AF2594000D596D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970DE2AF2594000D596D3 /* ContentView.swift */; };
 		BFE970E12AF2594300D596D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE970E02AF2594300D596D3 /* Assets.xcassets */; };
 		BFE970E42AF2594300D596D3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFE970E32AF2594300D596D3 /* Preview Assets.xcassets */; };
+		BFE970EE2AF2598500D596D3 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970ED2AF2598500D596D3 /* HomeView.swift */; };
+		BFE970F02AF259D200D596D3 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970EF2AF259D200D596D3 /* HomeViewModel.swift */; };
+		BFE970F32AF25CF300D596D3 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970F22AF25CF300D596D3 /* Constant.swift */; };
+		BFE970FA2AF275CF00D596D3 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970F92AF275CF00D596D3 /* Double.swift */; };
+		BFE970FC2AF391FB00D596D3 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970FB2AF391FB00D596D3 /* InfoView.swift */; };
+		BFE970FE2AF3A23000D596D3 /* StageCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE970FD2AF3A23000D596D3 /* StageCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BF04459F2B1B7BF700590065 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		BF1985A22B28C739003E7AEB /* HistoryCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryCard.swift; sourceTree = "<group>"; };
+		BF2E21182B1C8C28007B5117 /* beep-02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "beep-02.mp3"; sourceTree = "<group>"; };
+		BF2E211A2B1CE14A007B5117 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		BF2E211C2B1CF13F007B5117 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BF638C662B2B192C007243F6 /* BeepTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeepTableView.swift; sourceTree = "<group>"; };
+		BF71E0242B1B03B900A3B68E /* SoundManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundManager.swift; sourceTree = "<group>"; };
+		BF71E0292B1B046B00A3B68E /* beep-01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "beep-01.mp3"; sourceTree = "<group>"; };
+		BF71E02B2B1B06A900A3B68E /* BeepStage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeepStage.swift; sourceTree = "<group>"; };
+		BF71E02D2B1B1C1900A3B68E /* TutorialsItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialsItem.swift; sourceTree = "<group>"; };
+		BF71E02F2B1B206C00A3B68E /* StageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageView.swift; sourceTree = "<group>"; };
+		BF71E0312B1B20FD00A3B68E /* RedBackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedBackButton.swift; sourceTree = "<group>"; };
+		BFC59BA62B1DC20C008C9E54 /* BeepResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeepResult.swift; sourceTree = "<group>"; };
+		BFC59BA82B1DEB89008C9E54 /* UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaults.swift; sourceTree = "<group>"; };
+		BFC59BAB2B1DEEF2008C9E54 /* SelectAgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectAgeView.swift; sourceTree = "<group>"; };
+		BFC59BAD2B1E071A008C9E54 /* BeepClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeepClass.swift; sourceTree = "<group>"; };
+		BFC59BAF2B1EF5CD008C9E54 /* HistoryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewModel.swift; sourceTree = "<group>"; };
+		BFC59BB12B1F18A2008C9E54 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		BFCE29B62B27AC41008194DC /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		BFE4D6BA2B2B64A400AAB832 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		BFE970D92AF2594000D596D3 /* btest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = btest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE970DC2AF2594000D596D3 /* btestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = btestApp.swift; sourceTree = "<group>"; };
 		BFE970DE2AF2594000D596D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BFE970E02AF2594300D596D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFE970E32AF2594300D596D3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BFE970ED2AF2598500D596D3 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		BFE970EF2AF259D200D596D3 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		BFE970F22AF25CF300D596D3 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		BFE970F92AF275CF00D596D3 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		BFE970FB2AF391FB00D596D3 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		BFE970FD2AF3A23000D596D3 /* StageCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +83,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BF71E0232B1B03A900A3B68E /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				BF71E0242B1B03B900A3B68E /* SoundManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		BF71E0262B1B043D00A3B68E /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				BF71E0282B1B044F00A3B68E /* Sounds */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		BF71E0282B1B044F00A3B68E /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				BF2E21182B1C8C28007B5117 /* beep-02.mp3 */,
+				BF71E0292B1B046B00A3B68E /* beep-01.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		BFE970D02AF2594000D596D3 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +127,14 @@
 		BFE970DB2AF2594000D596D3 /* btest */ = {
 			isa = PBXGroup;
 			children = (
+				BF2E211C2B1CF13F007B5117 /* Info.plist */,
+				BF71E0262B1B043D00A3B68E /* Assets */,
+				BF71E0232B1B03A900A3B68E /* Managers */,
+				BFE970F82AF275C400D596D3 /* Extension */,
+				BFE970F12AF25CE600D596D3 /* Utilities */,
+				BFE970EC2AF2596E00D596D3 /* View */,
+				BFE970EB2AF2596300D596D3 /* ViewModel */,
+				BFE970EA2AF2595400D596D3 /* Model */,
 				BFE970DC2AF2594000D596D3 /* btestApp.swift */,
 				BFE970DE2AF2594000D596D3 /* ContentView.swift */,
 				BFE970E02AF2594300D596D3 /* Assets.xcassets */,
@@ -65,6 +149,79 @@
 				BFE970E32AF2594300D596D3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BFE970EA2AF2595400D596D3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BF71E02B2B1B06A900A3B68E /* BeepStage.swift */,
+				BFC59BA62B1DC20C008C9E54 /* BeepResult.swift */,
+				BFC59BAD2B1E071A008C9E54 /* BeepClass.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BFE970EB2AF2596300D596D3 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				BFE970EF2AF259D200D596D3 /* HomeViewModel.swift */,
+				BFC59BAF2B1EF5CD008C9E54 /* HistoryViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		BFE970EC2AF2596E00D596D3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				BFE970F52AF2625100D596D3 /* Page */,
+				BFE970F42AF2624A00D596D3 /* Components */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BFE970F12AF25CE600D596D3 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				BFE970F22AF25CF300D596D3 /* Constant.swift */,
+				BFC59BB12B1F18A2008C9E54 /* Helper.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		BFE970F42AF2624A00D596D3 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				BFE970FD2AF3A23000D596D3 /* StageCard.swift */,
+				BF71E02D2B1B1C1900A3B68E /* TutorialsItem.swift */,
+				BF71E0312B1B20FD00A3B68E /* RedBackButton.swift */,
+				BF1985A22B28C739003E7AEB /* HistoryCard.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		BFE970F52AF2625100D596D3 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				BFE970ED2AF2598500D596D3 /* HomeView.swift */,
+				BFE970FB2AF391FB00D596D3 /* InfoView.swift */,
+				BF71E02F2B1B206C00A3B68E /* StageView.swift */,
+				BF04459F2B1B7BF700590065 /* SplashView.swift */,
+				BF2E211A2B1CE14A007B5117 /* ResultView.swift */,
+				BFC59BAB2B1DEEF2008C9E54 /* SelectAgeView.swift */,
+				BFCE29B62B27AC41008194DC /* HistoryView.swift */,
+				BF638C662B2B192C007243F6 /* BeepTableView.swift */,
+			);
+			path = Page;
+			sourceTree = "<group>";
+		};
+		BFE970F82AF275C400D596D3 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				BFE970F92AF275CF00D596D3 /* Double.swift */,
+				BFC59BA82B1DEB89008C9E54 /* UserDefaults.swift */,
+				BFE4D6BA2B2B64A400AAB832 /* Date.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +282,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF2E21192B1C8C28007B5117 /* beep-02.mp3 in Resources */,
 				BFE970E42AF2594300D596D3 /* Preview Assets.xcassets in Resources */,
+				BF71E02A2B1B046B00A3B68E /* beep-01.mp3 in Resources */,
 				BFE970E12AF2594300D596D3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +296,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF71E02E2B1B1C1900A3B68E /* TutorialsItem.swift in Sources */,
+				BF71E0322B1B20FD00A3B68E /* RedBackButton.swift in Sources */,
+				BF2E211B2B1CE14A007B5117 /* ResultView.swift in Sources */,
+				BF71E0302B1B206C00A3B68E /* StageView.swift in Sources */,
+				BFE970EE2AF2598500D596D3 /* HomeView.swift in Sources */,
+				BF638C672B2B192C007243F6 /* BeepTableView.swift in Sources */,
+				BFE4D6BB2B2B64A400AAB832 /* Date.swift in Sources */,
+				BFCE29B72B27AC41008194DC /* HistoryView.swift in Sources */,
+				BF1985A32B28C739003E7AEB /* HistoryCard.swift in Sources */,
+				BFC59BA92B1DEB89008C9E54 /* UserDefaults.swift in Sources */,
+				BFE970FC2AF391FB00D596D3 /* InfoView.swift in Sources */,
+				BFC59BA72B1DC20C008C9E54 /* BeepResult.swift in Sources */,
+				BFC59BB22B1F18A2008C9E54 /* Helper.swift in Sources */,
 				BFE970DF2AF2594000D596D3 /* ContentView.swift in Sources */,
+				BFE970F32AF25CF300D596D3 /* Constant.swift in Sources */,
 				BFE970DD2AF2594000D596D3 /* btestApp.swift in Sources */,
+				BFE970F02AF259D200D596D3 /* HomeViewModel.swift in Sources */,
+				BF71E02C2B1B06AA00A3B68E /* BeepStage.swift in Sources */,
+				BFE970FA2AF275CF00D596D3 /* Double.swift in Sources */,
+				BFC59BAC2B1DEEF2008C9E54 /* SelectAgeView.swift in Sources */,
+				BFC59BB02B1EF5CD008C9E54 /* HistoryViewModel.swift in Sources */,
+				BFE970FE2AF3A23000D596D3 /* StageCard.swift in Sources */,
+				BF71E0252B1B03B900A3B68E /* SoundManager.swift in Sources */,
+				BF0445A02B1B7BF700590065 /* SplashView.swift in Sources */,
+				BFC59BAE2B1E071A008C9E54 /* BeepClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,11 +457,14 @@
 				DEVELOPMENT_TEAM = ZCPU58B2UF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = btest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,11 +489,14 @@
 				DEVELOPMENT_TEAM = ZCPU58B2UF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = btest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
